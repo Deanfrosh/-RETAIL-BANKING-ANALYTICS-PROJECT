@@ -33,4 +33,5 @@ This project analyzes retail banking transactions and loan portfolio data using 
 
 ## Contact
 📩 [Email](mailto:adeyosoye37@gmail.com)
+
 🔗 [Linkedin](https://www.linkedin.com/in/daniel-y-/)
